@@ -24,9 +24,9 @@ h1 {
 }
 
 .list-group-item.active {
-  background-color: #dc3545 !important;
-  border-color: #dc3545 !important;
-  color: white !important;
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: white;
 }
 
 .country-details {

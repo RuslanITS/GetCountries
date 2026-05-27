@@ -1,4 +1,3 @@
-import "./App.css";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
@@ -7,6 +6,7 @@ import CountriesList from "./components/CountriesList";
 import CountryDetails from "./components/CountryDetails";
 import { BASE_URL, ALL_COUNTRIES_URL, } from "./Api/countries";
 import type { Country } from "./Type";
+import "./App.css";
 
 const App = () => {
 
